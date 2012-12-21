@@ -1,0 +1,28 @@
+body {
+	font-family: 	arial;
+	font-size:		11px;
+}
+
+a:link { text-decoration: none; color: inherit; }
+a:active { text-decoration: none; color: inherit; }
+a:visited { text-decoration: none; color: inherit; }
+a:hover { text-decoration: none; color: inherit; }
+
+
+iframe {
+}
+
+#playlist {
+	width: 200px;
+	list-style: none;
+	}
+
+#playlist li {
+	padding-bottom: 1.5em;
+
+}
+
+.bio {
+	float: left;
+
+}
